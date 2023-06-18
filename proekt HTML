@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>проєкт</title>
+</head>
+<body>
+    <header>
+            <div class="block1">
+                <img src="./ed69f7fa91929ff49ecafac2bfd72360 2.png"></img>
+                <div class="bibi">
+                    <a class="tegg" href="#">Main page</a>
+                    <a href="#" class="teg6">.</a>
+                    <a class="teg" href="#">Benefits</a>
+                    <a class="teg1" href="#">Advantages</a>
+                    <a class="teg2" href="#">Reviews</a>
+                    <a class="teg3" href="#">Contacts</a>
+                    <a class="teg4" href="#">Order</a>
+                    <a class="teg5" href="#">Ru</a>
+                    <a class="tegg" href="#">Eng</a>
+                </div>
+            </div>
+            <section>
+                <div class="container">
+                  <div class="content">
+            
+                    <div class="logo_cont">
+                      <img src="./ed69f7fa91929ff49ecafac2bfd72360 2.png" alt="" class="logo_cont_img">
+                      <p class="c_r">С&R</p>
+                    </div>
+            
+                    <div class="content_text">
+            
+                      <div class="content_text_right">
+                        <h1 class="content_header">
+                          ColoRawe
+                        </h1>
+                        <h3 class="text_bolt">
+                          Your dream Nike
+                        </h3>
+                        <p class="text_header">
+                          On this site you can find custom Nike sneakers of your dreams.
+                          The original company caт`t create such beautiful
+                          sneakers as we do.
+                          Good luck finding your way in the world of custom sneakers.
+                        </p>
+                        <button class="btn_header">
+                          <a href="#" class="btn_link">Buy my Nike</a>
+                        </button>
+                      </div>
+            
+                      <img src="./Найк роз голуб 1.png" alt="" class="content_text_left">
+            
+                    </div>
+                </div>
+            </div>
+        </section>
+    </header>
+    <div class="biba">
+        <div class="block5">
+            <img class="text1" src="./1.png">
+            <img class="text2" src="./2.png">
+            <img class="text3" src="./3.png">
+        </div>
+        <div class="block23">
+            <img clas="text4" src="./Vector 2.png">
+            <img clas="text5" src="./Vector 2.png">
+            <img clas="text6" src="./Vector 2.png">
+        </div>
+        <div class="block25">
+            <p class="trx">Premium</p>
+                <p class="trk">Quality</p>
+
+            <p class="trx1">indelible 
+                <p class="trk1">paint</p>
+
+            <p class="trx2">Fast</p> 
+                <p class="trk2">shipping</p>
+        </div>
+        <div class="block24">
+            <img class="text7" src="./Звёзды 1.png">
+            <img class="text8" src="./Краски 1.png">
+            <img class="text9" src="./Грузан 1.png">
+        </div>
+    </div>
+    <section class="boba">
+        <div class="block6">
+            <img src="./Найк роз голуб 2.png">
+
+                <img class="el24" src="./Ellipse 1.png">
+                <img class="el25" src="./Ellipse 10.png">
+            
+                <img class="el26" src="./Ellipse 1.png">
+                <img class="el27" src="./Ellipse 10.png">
+
+                <img class="el28" src="./Ellipse 1.png">
+                <img class="el29" src="./Ellipse 10.png">
+
+                <img class="el30" src="./Ellipse 1.png">
+                <img class="el31" src="./Ellipse 10.png">
+            </div>
+        
+        
+        <div>
+            <img class="el5" src="./Group 1.png">
+        </div>
+        <div>
+            <img class="el6" src="./Vector 7.png">
+        </div>
+        <div>
+            <p class="el7">Comfortable sole</p>
+        </div>
+        <div>
+            <img class="block8" src="./Rectangle 6.png">
+        </div>
+        <div>
+            <img class="block9" src="./Rectangle 6.png">
+        </div>
+        <div>
+            <img class="block10" src="./Rectangle 4.png">
+        </div>
+        <div class="block22">
+            <a href="#" class="el8">10% fabric    40% natural fabric    50% polyester</a>
+        </div>
+    </section>
+    <section class="bubi">
+        <div class="block14">
+            <p class="el16">Reviews</p>
+        </div>
+        <div class="block13">
+            <img class="" src="./Rectangle 8.png">
+            <img class="" src="./Rectangle 9.png">
+            <img class="" src="./Rectangle 10.png">
+        </div>
+        <div class="block12">
+            <img class="el10" src="./Rectangle 12.png">
+            <img class="el11" src="./Rectangle 14.png">
+            <img class="el12" src="./Rectangle 16.png">
+        </div>
+        <div class="block11">
+            <img class="el13" src="./Rectangle 12.png">
+            <img class="el14" src="./Rectangle 14.png">
+            <img class="el15" src="./Rectangle 16.png">
+        </div>
+        <div class="block15">
+            <p>Sneakers are very</p> 
+            <p>comfortable and well</p> 
+            <p>painted, nothing has</p>
+            <p>worn off in a year.</p>
+        </div>
+        <div class="block16">
+            <p>I'm very happy with</p> 
+            <p>this color scheme.</p> 
+            <p>They match all my </p>
+            <p>clothes.</p>
+        </div>
+        <div class="block17">
+            <p>Just right if you need </p>
+            <p>to go to a party.</p> 
+            <p>I use them actively, </p>
+            <p> the paint is super.</p>
+        </div>
+        <div class="block18">
+            <p class="el17">25.11</p>
+            <p class="el18">05.01</p>
+            <p class="el19">18.06</p>
+        </div>
+        <div class="block19">
+            <img src="./Ellipse 17.png">John Teylor</img>
+            <p class="el21"></p>
+        </div>
+        <div class="block20">
+            <img src="./Ellipse 18.png">Elizabeth Garsia</img>
+            <p class="el22"></p>
+        </div>
+        <div class="block21">
+            <img src="./Ellipse 19.png">Tom Maquare</img>
+            <p class="el23"></p>
+        </div>
+        <div>
+            <img class="el20" src="./цветы 2 1.png">
+        </div>
+    </section>
+    <section class="bub">
+        <div class="bok">
+            <img class="gogi" src="./Rectangle 18.png">
+        </div>
+        <div class="bik">
+            <img class="gggg" src="./Rectangle 17.png">
+        </div>
+        <div class="buk">
+            <img class="goga"  src="./Rectangle 19.png">
+        </div>
+        <div class="bak">
+            <img class="gogg"  src="./Rectangle 20.png">
+        </div>
+        <div class="bjk">
+            <img class="gogl" src="./Rectangle 21.png">
+        </div>
+        <div class="bhk">
+            <button class="gigi">
+                <a href="#" class="gogo">Order my Nike</a>
+            </button>
+        <div>
+    </section>
+</body>
+</html>
