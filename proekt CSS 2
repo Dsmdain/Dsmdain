@@ -1,0 +1,656 @@
+header{
+    background: url("./Снимок\ экрана\ 2022-01-16\ 173350\ 1.png") no-repeat;
+    background-size: cover;
+}
+.block1{
+    background: url("./Rectangle\ 47.png") no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+}
+.teg{
+    color: rgb(104, 104, 104);
+    font-size: 24px;
+    margin-right: 55px;
+}
+.teg1{
+    color: rgb(104, 104, 104);
+    font-size: 24px;
+    margin-right: 55px;
+}
+.teg2{
+    color: rgb(104, 104, 104);
+    font-size: 24px;
+    margin-right: 55px;
+}
+.teg3{
+    color: rgb(104, 104, 104);
+    font-size: 24px;
+    margin-right: 55px;
+}
+.teg4{
+    color: rgb(104, 104, 104);
+    font-size: 24px;
+    margin-right: 85px;
+}
+.teg5{
+    color: rgb(104, 104, 104);
+    font-size: 24px;
+}
+.teg6{
+    color: #012D63;
+    margin-right: 40px;
+}
+.tegg{
+    color: white;
+    font-size: 24px;
+}
+.bibi{
+    margin: 15px;
+    margin-right: 50px;
+}
+p, h1, h3 {
+    color: rgb(255, 255, 255);
+}
+  
+.container {
+    margin: 10px 75px 10px 155px;
+}
+/* logo cont */
+.logo_cont{
+  
+}
+.logo_cont_img {
+    width: 140px;
+    height: 80px;
+    margin-left: 5px;
+}
+  
+.c_r {
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 62px;
+      margin-top: 0;
+      margin-left: 30px;
+}
+  
+  
+/* content */
+.content_text{
+    display: flex;
+    position: relative;
+}
+  
+.content_text_right {
+  
+}
+  
+.content_header{
+    font-weight: 400;
+    font-size: 144px;
+    line-height: 192px;
+    margin: 5px;
+  }
+  
+.text_bolt{
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 96px;
+    margin: 0 0 12px;
+}
+  
+.text_header{
+    width: 508px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 41px;
+}
+  
+.btn_header {
+    background: #8E32C6;
+    border-radius: 10px;
+    border: 1px solid #8E32C6;
+    height: 67px;
+}
+  
+.btn_link{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px 60px;
+}
+  
+.content_text_left{
+    position: absolute;
+    width: 840px;
+    right: 55px;
+    top: -180px;
+}
+.biba{
+    background: url("./Group\ 8\ 1.png") no-repeat;
+    background-size: cover;
+}
+.block5{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.text1{
+    width: 60px;
+    height: 120px;
+    position: absolute;
+    top: 8px;left: 180px;
+}
+.text2{
+    width: 60px;
+    height: 120px;
+    position: absolute;
+    top: 8px;left: 800px;
+}
+.text3{
+    width: 60px;
+    height: 120px;
+    position: absolute;
+    top: 8px;left: 1415px;
+}
+.boba{
+    background: url("./Group\ 7\ \(1\)\ 1.png") no-repeat;
+    background-size: cover;
+}
+.block6{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -4px;
+    left: 450px;
+}
+
+.el5{
+    position: absolute;
+    top: -165px;left: 1050px;
+}
+.el-5{
+    position: relative;
+}
+.el6{
+    position: absolute;
+    top: -290px;left: 1177px;
+}
+.el-6{
+    position: relative;
+}
+.el7{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: -340px;left: 1390px;
+}
+.el-7{
+    position: relative;
+}
+.el8{
+    color: white;
+    font-size: 20px;
+    background: #8E32C6;
+    border-radius: 10px;
+    border: 25px solid #8E32C6;
+    width: 400px;
+}
+
+
+.bubi{
+    background: url("./Group\ 6\ 1.png") no-repeat;
+    background-size: cover;
+}
+.block11{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -185px;left: 0px;
+}
+.block12{
+    display: flex;
+    justify-content: space-around;
+}
+
+.el16{
+    font-size: 48px;
+    color: white;
+}
+.hey{
+    display: flex;
+    justify-content: space-around;
+}
+.time{
+    display: flex;
+    justify-content: space-around;
+}
+.block15{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    width: 228px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #00E5E6 7.29%, #00A8F7 26.04%, #9A76F9 62.50%, #CC5EC2 100%);
+}
+.block16{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    width: 228px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #00E5E6 7.29%, #00A8F7 26.04%, #9A76F9 62.50%, #CC5EC2 100%);
+}
+.block17{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    width: 228px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding: -40px;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #00E5E6 7.29%, #00A8F7 26.04%, #9A76F9 62.50%, #CC5EC2 100%);
+}
+.v{
+    display: flex;
+    justify-content: space-around;
+}
+.block18{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+}
+.el17{
+    color: white;
+    position: relative;
+    top: -850px;left: -70px;
+}
+.el18{
+    color: white;
+    position: relative;
+    top: -850px;left: -65px;
+}
+.el19{
+    color: white;
+    position: relative;
+    top: -850px;left: -68px;
+}
+.el20{
+    display: flex;
+    justify-content: start;
+    position: relative;
+    left: -110px;
+}
+.block19{
+    color: white;
+    position: relative;
+    top: -800px;left: 220px;
+}
+.block20{
+    color: white;
+    position: relative;
+    top: -850px;left: 847px;
+}
+.block21{
+    color: white;
+    position: relative;
+    top: -900px;left: 1450px;
+}
+.ins{
+    background: url("./Group\ 2\ 1.png") no-repeat;
+    background-size: cover;
+}
+.block22{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+.block23{
+    display: flex;
+    justify-content: space-around;
+}
+.block25{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.trx{
+    font-size: 36px;
+    position: absolute;
+    top: -400px;left: 255px;
+}
+.trx1{
+    font-size: 36px;
+    position: absolute;
+    top: -400px;left: 875px;
+}
+.trx2{
+    font-size: 36px;
+    position: absolute;
+    top: -400px;left: 1490px;
+}
+
+
+
+.trk{
+    font-size: 36px;
+    position: absolute;
+    top: -360px;left: 255px;
+}
+.trk1{
+    font-size: 36px;
+    position: absolute;
+    top: -360px;left: 875px;
+}
+.trk2{
+    font-size: 36px;
+    position: absolute;
+    top: -360px;left: 1490px;
+}
+.block24{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.text7{
+    position: absolute;
+    top: -290px;left: 155px;
+}
+.text8{
+    position: absolute;
+    top: -270px;left: 770px;
+}
+.text9{
+    position: absolute;
+    top: -290px;left: 1366px;
+}
+
+.blol{
+    position: relative;
+}
+
+.el24{
+    position: absolute;
+    top: -290px;
+    left: 840px;
+    width: 16px;
+    height: 16px;
+}
+.el25{
+    position: absolute;
+    top: -293px;
+    left: 837px;
+    width: 25px;
+    height: 25px;
+}
+
+
+
+.el26{
+    position: absolute;
+    top: -180px;
+    left: 690px;
+    width: 16px;
+    height: 16px;
+}
+.el27{
+    position: absolute;
+    top: -183px;
+    left: 687px;
+    width: 25px;
+    height: 25px;
+}
+
+
+
+.el28{
+    position: absolute;
+    top: -194px;
+    left: 960px;
+    width: 16px;
+    height: 16px;
+}
+.el29{
+    position: absolute;
+    top: -197px;
+    left: 957px;
+    width: 25px;
+    height: 25px;
+}
+
+
+
+
+.el30{
+    position: absolute;
+    top: -327px;
+    left: 1184px;
+    width: 16px;
+    height: 16px;
+}
+.el31{
+    position: absolute;
+    top: -330px;
+    left: 1181px;
+    width: 25px;
+    height: 25px;
+}
+
+.bub{
+    background: url("./Group\ 2\ 1.png") no-repeat;
+    background-size: cover;
+}
+.gigi{
+    background: #8E32C6;
+    border-radius: 10px;
+    border: 1px solid #8E32C6;
+    height: 67px;
+}
+.gogo{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20px 60px;
+}
+
+
+.gogi{
+    margin: 10px;
+}
+.gggg{
+    position: absolute;
+    top: -65px;
+    left: 1015px;
+}
+.goga{
+    margin: 10px;
+}
+.gogg{
+    margin: 10px;
+}
+.gogl{
+    margin: 10px;
+}
+.gogo{
+    margin: 10px;
+}
+
+
+.bok{
+    display: flex;
+    justify-content: space-around;
+}
+.bik{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.buk{
+    display: flex;
+    justify-content: space-around;
+}
+.bak{
+    display: flex;
+    justify-content: space-around;
+}
+.bjk{
+    display: flex;
+    justify-content: space-around;
+}
+.bhk{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.but{
+    display: flex;
+    justify-content: space-around;
+}
+.ask{
+    font-size: 48px;
+}
+
+
+.j{
+    position: relative;
+}
+
+
+.w{
+    font-size: 24px;
+    color: rgb(156, 156, 156);
+    position: absolute;
+    top: -383px;
+    left: 600px;
+}
+.s{
+    position: absolute;
+    top: -379px;
+    left: 800px;
+    border: #ffffff;
+}
+
+.e{
+    font-size: 24px;
+    color: rgb(156, 156, 156);
+    position: absolute;
+    top: -307px;
+    left: 660px;
+}
+.d{
+    position: absolute;
+    top: -303px;
+    left: 800px;
+    border: #ffffff;
+}
+
+.r{
+    font-size: 24px;
+    color: rgb(156, 156, 156);
+    position: absolute;
+    top: -237px;
+    left: 660px;
+}
+.f{
+    position: absolute;
+    top: -233px;
+    left: 800px;
+    border: #ffffff;
+}
+
+.t{
+    font-size: 24px;
+    color: rgb(156, 156, 156);
+    position: absolute;
+    top: -167px;
+    left: 660px;
+}
+.g{
+    position: absolute;
+    top: -163px;
+    left: 800px;
+    border: #ffffff;
+}
+
+.k{
+    position: relative;
+}
+.q{
+    position: absolute;
+    top: -383px;
+    left: 1095px;
+    font-size: 24px;
+    color: rgb(156, 156, 156); 
+}
+
+
+.bimba{
+    background: url("./Rectangle\ 17\ \(1\).png") no-repeat;
+    background-size: cover;
+}
+
+.bibl{
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+
+.bloc{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tex{
+    font-size: 18px;
+}
+
+
+
+.fon{
+    border-radius: 15px;
+    background: linear-gradient(135deg, #00E5E6 7.29%, #00A8F7 26.04%, #9A76F9 62.50%, #CC5EC2 100%);
+    width: 228px;
+}
+
+.blok{
+
+}
+
+.a{
+    position: relative;
+}
+
+.blo{
+    color: white;
+}
+
+.b{
+    font-size: 14px;
+}
+
+.m{
+    font-size: 12px;
+}
+
+.ab{
+    font-size: 24px;
+    width: 228px;
+}
+.bib{
+    position: absolute;
+    top: -55px;
+    left: 30px;
+}
